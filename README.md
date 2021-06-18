@@ -4,14 +4,14 @@
 ---
 >Screen Shot
 ---
-![screen shot](addedNewMovie.jpg)
+![screen shot](https://github.com/sandraRaveendran/db-connect-and-edit/tree/master/screenshots/addedNewMovie.jpg)
 
 2.Updated Existing Record
 ---
 >Screen Shot
 ---
-![screen shot](updatedMovieRow.jpg)
+![screen shot](https://github.com/sandraRaveendran/db-connect-and-edit/tree/master/screenshots/updatedMovieRow.jpg)
 
 3.Deleted Record
 ---
-![screen shot](deletedMovie.jpg)
+![screen shot](https://github.com/sandraRaveendran/db-connect-and-edit/tree/master/screenshots/deletedMovie.jpg)
